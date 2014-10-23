@@ -1,7 +1,7 @@
 {
   "name": "express-latency-headers",
-  "version": "0.0.1",
-  "description": "Add latency headers to express response",
+  "version": "0.0.2",
+  "description": "Add latency headers to express",
   "main": "index.js",
   "author": "Montana Flynn",
   "license": "ISC",
