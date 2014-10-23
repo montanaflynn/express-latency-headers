@@ -9,6 +9,10 @@ This middleware adds two headers to the response.
 
 ## Example
 
+```shell
+npm install express-latency-headers --save
+```
+
 ```javascript
 var express = require('express')
 var latencyHeaders = require('express-latency-headers')
