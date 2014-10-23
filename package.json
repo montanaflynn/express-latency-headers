@@ -7,5 +7,19 @@
   "license": "ISC",
   "dependencies": {
     "on-headers": "^1.0.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/montanaflynn/express-latency-headers.git"
+  },
+  "keywords": [
+    "express",
+    "middleware",
+    "latency",
+    "headers"
+  ],
+  "bugs": {
+    "url": "https://github.com/montanaflynn/express-latency-headers/issues"
+  },
+  "homepage": "https://github.com/montanaflynn/express-latency-headers"
 }
